@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+F:\OOP\GUI Projects\Liberary\Liberary\Liberary\MyForm.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Liberary.vcxproj -> F:\OOP\GUI Projects\Liberary\Liberary\x64\Debug\Liberary.exe

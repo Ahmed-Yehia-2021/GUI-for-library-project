@@ -1,0 +1,5 @@
+F:\OOP\GUI Projects\Liberary\Liberary\Liberary\x64\Debug\Liberary.vcxproj.AssemblyReference.cache
+F:\OOP\GUI Projects\Liberary\Liberary\Liberary\x64\Debug\Liberary.vcxproj.SuggestedBindingRedirects.cache
+F:\OOP\GUI Projects\Liberary\Liberary\Liberary\x64\Debug\Liberary.MyForm.resources
+F:\OOP\GUI Projects\Liberary\Liberary\Liberary\x64\Debug\Liberary.vcxproj.GenerateResource.cache
+F:\OOP\GUI Projects\Liberary\Liberary\Liberary\x64\Debug\Liberary.MyForm1.resources
